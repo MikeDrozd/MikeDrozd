@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MikeDrozd
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me e-mail: iamdrozdoff@gmail.com
